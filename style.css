@@ -1,0 +1,59 @@
+div {
+  background-color: purple;
+  padding: 30px 20px 30px 20px;
+  color: white;
+}
+
+.Forgot {
+  font-family: Georgia;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.img {
+  padding: 20px 10px 20px 10px;
+}
+
+html {
+  background: url(img/background.jpg) no-repeat center fixed;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  border: 3px solid purple;
+  margin: 25px auto;
+  width: 600px;
+  border-radius: 25px;
+}
+input {
+  border: 1px solid purple;
+}
+
+hr {
+  width: 300px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 5px 15px 5px 15px;
+  font-size: 20px;
+  border: 1px solid lightgrey;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: yellow;
+  transition: 20s;
+}
+
+img {
+  padding: 10px 5px 10px 5px;
+}
